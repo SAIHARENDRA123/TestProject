@@ -7,12 +7,11 @@ namespace TestProject.BAL
 {
     public class Operations
     {
-        public int  Addition()
+        public int  Addition(int x,inty)
         {
-            int x=10;
-            int y=20;
-            int c;
-            return c = x + y;
+           
+         
+            return  x + y;
         }
     }
 }
